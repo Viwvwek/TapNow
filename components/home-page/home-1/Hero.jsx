@@ -47,7 +47,7 @@ const Hero1 = () => {
               margin: "0 auto",
               fontFamily: "Arial, sans-serif"
             }}>
-              <form
+              <form id = "email"
                 onSubmit={handleSubmit}
                 style={{
                   display: "flex",

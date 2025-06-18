@@ -45,7 +45,7 @@ const DefaulHeader = () => {
           <div className="right-widget ms-auto d-flex align-items-center order-lg-3">
             
             <Link
-              href="/contact/contact-v1"
+              href="#email"
               className="btn-twentyOne fw-500 tran3s d-none d-lg-block"
             >
               Contact us

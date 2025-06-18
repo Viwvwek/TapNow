@@ -29,7 +29,7 @@ const Insurance2 = () => {
   className="footer-style-ten theme-basic-footer zn2 position-relative"
   data-aos="fade-up"
 >
-  <div className="container">
+  <div className="container"style={{ minHeight: "25vh", height: "auto" }}>
     <div className="inner-wrapper">
       <div className="row">
         <div className="col-lg-3 footer-intro mb-40 ms-auto">
