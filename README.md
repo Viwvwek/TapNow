@@ -1,8 +1,8 @@
-# TapNow 🚀
+# TapNow 
 
-![TapNow Preview](assets/banner.png)
+![TapNow Preview](assets/Logo.png)
 
-**TapNow** is a clean, responsive landing page dedicated to showcasing your app, product, or startup. Built using modern web technologies (HTML, CSS, JavaScript), it's super easy to customize and deploy.
+**TapNow** is a clean, responsive landing page dedicated to showcasing your app, product, or startup. Built using modern web technologies (NEXT JS), it's super easy to customize and deploy.
 
 ---
 
@@ -17,15 +17,5 @@
 
 ## 📸 Preview
 
-![TapNow Screenshot](assets/preview.png)
+![TapNow Screenshot](assets/Screenshot_1.png)
 
-*Replace these paths with your actual image file names under `assets/`.*
-
----
-
-## 🛠️ Setup & Usage
-
-1. **Clone the repo**  
-   ```bash
-   git clone https://github.com/Viwvwek/TapNow.git
-   cd TapNow
