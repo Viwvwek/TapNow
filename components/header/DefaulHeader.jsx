@@ -34,7 +34,7 @@ const DefaulHeader = () => {
           <div className="logo order-lg-0">
             <Link href="/" className="d-block">
               <Image
-                src="/favicon.ico/png"
+                src="/images/assets/Tapnow logo 500x150 1.png"
                 alt="logo"
                 width={208.8658447265625}
                 height={33}
