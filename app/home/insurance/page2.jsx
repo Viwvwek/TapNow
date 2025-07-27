@@ -61,13 +61,13 @@ const Insurance2 = () => {
   </div>
 
   <img
-    src="/images/assets/ils_13.png"
+    src="/images/assets/Frame 8 1.png"
     alt="illustration"
     className="lazy-img illustration-one"
     data-aos="fade-left"
   />
   <img
-    src="/images/assets/ils_14.png"
+    src="/images/assets/Frame 7 1.png"
     alt="illustration"
     className="lazy-img illustration-two"
     data-aos="fade-right"

@@ -97,17 +97,17 @@ const Hero1 = () => {
       {/* End .container */}
 
       <Image
-        width={487}
-        height={649}
-        src="/images/assets/ils_11.png"
+        width={338}
+        height={454}
+        src="/images/assets/Frame 8 1.png"
         alt="ilustration"
         className="lazy-img illustration-one"
         data-aos="fade-left"
       />
       <Image
-        width={537}
-        height={658}
-        src="/images/assets/ils_12.png"
+        width={308}
+        height={408}
+        src="/images/assets/Frame 7 1.png"
         alt="ilustration"
         className="lazy-img illustration-two"
         data-aos="fade-right"

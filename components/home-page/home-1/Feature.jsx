@@ -3,7 +3,7 @@ import Image from "next/image";
 const Feature = () => {
   const features = [
     {
-      background: "#D4D4D4",
+      background: "#E6E6E6",
       title: (
         <>
           Smart Card Suggestions 
